@@ -3,6 +3,8 @@ require 'sinatra'
 require 'pry'
 require 'sinatra/activerecord'
 require './models/user'
+require './models/card'
+
 
 #set :bind, '0.0.0.0' # Listen on any interface
 
